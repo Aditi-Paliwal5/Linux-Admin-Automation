@@ -1,0 +1,5 @@
+sudo tee /opt/linux-admin-task/delete-user-db.csv > /dev/null <<'EOF'
+User
+john
+alice
+EOF

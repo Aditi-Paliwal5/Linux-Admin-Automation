@@ -1,0 +1,10 @@
+sudo tee /opt/linux-admin-task/add-user-db.csv > /dev/null <<'EOF'
+User,Group
+john,developers
+alice,admins
+bob,testers
+mary,designers
+sudhanshu,devops
+rohit,developers
+oggy,testers
+EOF

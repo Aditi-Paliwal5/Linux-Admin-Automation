@@ -1,0 +1,5 @@
+sudo tee /opt/linux-admin-task/delete-group-db.csv > /dev/null <<'EOF'
+Group
+developers
+testers
+EOF

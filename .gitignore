@@ -1,0 +1,6 @@
+*.log
+*.log.*
+/report/
+reports/
+*.tmp
+*.bak
